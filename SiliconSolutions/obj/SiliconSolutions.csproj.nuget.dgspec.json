@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rashi\\Documents\\My\\Project\\SiliconSolutions\\SiliconSolutions\\SiliconSolutions.csproj": {}
+    "C:\\Users\\Rashi\\Documents\\My\\Git Hub\\Silicon-Solutions-POS-System\\SiliconSolutions\\SiliconSolutions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rashi\\Documents\\My\\Project\\SiliconSolutions\\SiliconSolutions\\SiliconSolutions.csproj": {
+    "C:\\Users\\Rashi\\Documents\\My\\Git Hub\\Silicon-Solutions-POS-System\\SiliconSolutions\\SiliconSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rashi\\Documents\\My\\Project\\SiliconSolutions\\SiliconSolutions\\SiliconSolutions.csproj",
+        "projectUniqueName": "C:\\Users\\Rashi\\Documents\\My\\Git Hub\\Silicon-Solutions-POS-System\\SiliconSolutions\\SiliconSolutions.csproj",
         "projectName": "SiliconSolutions",
-        "projectPath": "C:\\Users\\Rashi\\Documents\\My\\Project\\SiliconSolutions\\SiliconSolutions\\SiliconSolutions.csproj",
+        "projectPath": "C:\\Users\\Rashi\\Documents\\My\\Git Hub\\Silicon-Solutions-POS-System\\SiliconSolutions\\SiliconSolutions.csproj",
         "packagesPath": "C:\\Users\\Rashi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rashi\\Documents\\My\\Project\\SiliconSolutions\\SiliconSolutions\\obj\\",
+        "outputPath": "C:\\Users\\Rashi\\Documents\\My\\Git Hub\\Silicon-Solutions-POS-System\\SiliconSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 24.1\\Components\\Offline Packages"
