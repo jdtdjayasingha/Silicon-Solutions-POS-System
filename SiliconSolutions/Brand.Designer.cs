@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Brand));
             SuspendLayout();
             // 
             // Brand
@@ -35,6 +36,7 @@
             AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(1364, 736);
+            IconOptions.Icon = (System.Drawing.Icon)resources.GetObject("Brand.IconOptions.Icon");
             Name = "Brand";
             StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             Text = "Brand";
