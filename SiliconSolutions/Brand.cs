@@ -37,16 +37,7 @@ namespace SiliconSolutions
             cmd.Parameters.AddWithValue("@brand_name", name);
             cmd.Parameters.AddWithValue("@brand_description", description);
 
-            try
-            {
-                myCon.Open();
-                cmd.ExecuteNonQuery();
-                MessageBox.Show("Data saved successfully!");
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show($"Error: {ex.Message}");
-            }
+
                 
            
         }
