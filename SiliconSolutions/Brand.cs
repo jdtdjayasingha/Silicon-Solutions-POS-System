@@ -29,13 +29,13 @@ namespace SiliconSolutions
                                     brand_name, 
                                     brand_description) 
                                 VALUES (
-                                    @brand_name, 
-                                    @brand_description)";
+                                    @bName, 
+                                    @bDescription)";
 
             SqlCommand cmd = new SqlCommand(query, myCon);
                 
-            cmd.Parameters.AddWithValue("@brand_name", name);
-            cmd.Parameters.AddWithValue("@brand_description", description);
+            cmd.Parameters.AddWithValue("@bName", name);
+            cmd.Parameters.AddWithValue("@bDescription", description);
 
             try
             {
